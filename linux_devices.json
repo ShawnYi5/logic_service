@@ -1,0 +1,329 @@
+{
+  "ata_piix": {
+    "alias": "alias pci:v00008086d00007111sv*sd*bc*sc*i* ata_piix",
+    "drivers": [
+      {
+        "kernel_version": "4.",
+        "release_version": "*debian-stretch-sid*",
+        "arch": "64",
+        "relative_folder": "linux_devices/ata_piix/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "4.",
+        "release_version": "*debian-stretch-sid*",
+        "arch": "32",
+        "relative_folder": "linux_devices/ata_piix/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "3.",
+        "release_version": "*debian-stretch-sid*",
+        "arch": "64",
+        "relative_folder": "linux_devices/ata_piix/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "3.",
+        "release_version": "*debian-stretch-sid*",
+        "arch": "32",
+        "relative_folder": "linux_devices/ata_piix/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "2.6.18",
+        "release_version": "*centos*",
+        "arch": "64",
+        "relative_folder": "linux_devices/ata_piix/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "2.6.18",
+        "release_version": "*centos*",
+        "arch": "32",
+        "relative_folder": "linux_devices/ata_piix/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "2.6.18",
+        "release_version": "*centos*",
+        "arch": "32_PAE",
+        "relative_folder": "linux_devices/ata_piix/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "2.6.18",
+        "release_version": "*redhat*",
+        "arch": "64",
+        "relative_folder": "linux_devices/ata_piix/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "2.6.18",
+        "release_version": "*redhat*",
+        "arch": "32",
+        "relative_folder": "linux_devices/ata_piix/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "2.6.18",
+        "release_version": "*redhat*",
+        "arch": "32_PAE",
+        "relative_folder": "linux_devices/ata_piix/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "3.",
+        "release_version": "*debian-wheezy-sid*",
+        "arch": "64",
+        "relative_folder": "linux_devices/ata_piix/none",
+        "files": [
+        ]
+      }
+    ]
+  },
+  "virtio_pci": {
+    "alias": "alias pci:v00001AF4d*sv*sd*bc*sc*i* virtio_pci",
+    "drivers": [
+      {
+        "kernel_version": "4.",
+        "release_version": "*debian-stretch-sid*",
+        "arch": "64",
+        "relative_folder": "linux_devices/virtio_pci/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "4.",
+        "release_version": "*debian-stretch-sid*",
+        "arch": "32",
+        "relative_folder": "linux_devices/virtio_pci/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "4.",
+        "release_version": "*debian-jessie-sid*",
+        "arch": "64",
+        "relative_folder": "linux_devices/virtio_pci/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "4.",
+        "release_version": "*debian-jessie-sid*",
+        "arch": "32",
+        "relative_folder": "linux_devices/virtio_pci/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "3.",
+        "release_version": "*debian-jessie-sid*",
+        "arch": "64",
+        "relative_folder": "linux_devices/virtio_pci/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "3.",
+        "release_version": "*debian-jessie-sid*",
+        "arch": "32",
+        "relative_folder": "linux_devices/virtio_pci/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "4.",
+        "release_version": "*debian-buster-sid*",
+        "arch": "64",
+        "relative_folder": "linux_devices/virtio_pci/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "3.",
+        "release_version": "*debian-wheezy-sid*",
+        "arch": "64",
+        "relative_folder": "linux_devices/virtio_pci/none",
+        "files": [
+        ]
+      }
+    ]
+  },
+  "xen": {
+    "alias": "alias pci:v00005853d*sv*sd*bc*sc*i* xen",
+    "drivers": [
+      {
+        "kernel_version": "3.",
+        "release_version": "*centos*",
+        "arch": "64",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "2.",
+        "release_version": "*centos*",
+        "arch": "64",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "2.",
+        "release_version": "*centos*",
+        "arch": "32",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "2.",
+        "release_version": "*centos*",
+        "arch": "32_PAE",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "3.",
+        "release_version": "*redhat*",
+        "arch": "64",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "2.",
+        "release_version": "*redhat*",
+        "arch": "64",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "2.",
+        "release_version": "*redhat*",
+        "arch": "32",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "2.",
+        "release_version": "*redhat*",
+        "arch": "32_PAE",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "2.",
+        "release_version": "*SuSE*",
+        "arch": "64",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "2.",
+        "release_version": "*SuSE*",
+        "arch": "32",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "3.",
+        "release_version": "*SuSE*",
+        "arch": "64",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "3.",
+        "release_version": "*SuSE*",
+        "arch": "32",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "4.",
+        "release_version": "*",
+        "arch": "64",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "3.",
+        "release_version": "*",
+        "arch": "64",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "3.",
+        "release_version": "*",
+        "arch": "32",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "2.",
+        "release_version": "*",
+        "arch": "64",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "2.",
+        "release_version": "*",
+        "arch": "32",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "4.",
+        "release_version": "*debian-stretch-sid*",
+        "arch": "32",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "4.",
+        "release_version": "*debian-stretch-sid*",
+        "arch": "64",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      },
+      {
+        "kernel_version": "2.",
+        "release_version": "*",
+        "arch": "32_PAE",
+        "relative_folder": "linux_devices/xen/none",
+        "files": [
+        ]
+      }
+    ]
+  }
+}

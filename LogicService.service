@@ -1,0 +1,15 @@
+[Unit]
+Description=LogicService.service
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/sbin/aio/logic_service
+ExecStart=/root/.pyenv/shims/python3.4 main.py
+Restart=always
+KillSignal=SIGINT
+Environment=MALLOC_ARENA_MAX=2
+Environment=MALLOC_MMAP_MAX_=655360
+
+[Install]
+WantedBy=multi-user.target

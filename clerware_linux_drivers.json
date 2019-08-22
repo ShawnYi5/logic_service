@@ -1,0 +1,102 @@
+{
+  "disksbd": {
+    "drivers": [
+      {
+        "kernel_version": "2.6.18",
+        "release_version": "*centos*",
+        "arch": "32",
+        "relative_path": "clerware_linux_drivers/centos-5.11-x86/disksbd_linux.ko"
+      },
+      {
+        "kernel_version": "2.6.18",
+        "release_version": "*centos*",
+        "arch": "32_PAE",
+        "relative_path": "clerware_linux_drivers/centos-5.5-x86-pae/disksbd_linux.ko"
+      },
+      {
+        "kernel_version": "2.6.18",
+        "release_version": "*centos*",
+        "arch": "64",
+        "relative_path": "clerware_linux_drivers/centos-5.11-x64/disksbd_linux.ko"
+      },
+      {
+        "kernel_version": "2.6.18",
+        "release_version": "*redhat*centos.org*",
+        "arch": "32",
+        "relative_path": "clerware_linux_drivers/centos-5.11-x86/disksbd_linux.ko"
+      },
+      {
+        "kernel_version": "2.6.18",
+        "release_version": "*redhat*redhat.*",
+        "arch": "32_PAE",
+        "relative_path": "clerware_linux_drivers/centos-5.5-x86-pae/disksbd_linux.ko"
+      },
+      {
+        "kernel_version": "2.6.18",
+        "release_version": "*centos*centos.org*",
+        "arch": "64",
+        "relative_path": "clerware_linux_drivers/centos-5.11-x64/disksbd_linux.ko"
+      },
+      {
+        "kernel_version": "2.6.18",
+        "release_version": "*redhat*redhat.com*",
+        "arch": "32",
+        "relative_path": "clerware_linux_drivers/RHEL-5.11-x86/disksbd_linux.ko"
+      },
+      {
+        "kernel_version": "2.6.18",
+        "release_version": "*redhat*redhat.com*",
+        "arch": "64",
+        "relative_path": "clerware_linux_drivers/RHEL-5.11-x64/disksbd_linux.ko"
+      },
+      {
+        "kernel_version": "2.6.32",
+        "release_version": "*centos*",
+        "arch": "32",
+        "relative_path": "clerware_linux_drivers/centos-6.0-x86/disksbd_linux.ko"
+      },
+      {
+        "kernel_version": "2.6.32",
+        "release_version": "*centos*",
+        "arch": "64",
+        "relative_path": "clerware_linux_drivers/centos-6.0-x64/disksbd_linux.ko"
+      },
+      {
+        "kernel_version": "2.6.32",
+        "release_version": "*redhat*redhat.com*",
+        "arch": "32",
+        "relative_path": "clerware_linux_drivers/RHEL-6.0-x86/disksbd_linux.ko"
+      },
+      {
+        "kernel_version": "2.6.32",
+        "release_version": "*redhat*redhat.com*",
+        "arch": "64",
+        "relative_path": "clerware_linux_drivers/RHEL-6.0-x64/disksbd_linux.ko"
+      },
+      {
+        "kernel_version": "3.10",
+        "release_version": "*centos-7.[12].*",
+        "arch": "64",
+        "relative_path": "clerware_linux_drivers/centos-7.2-x64/disksbd_linux.ko"
+      },
+      {
+        "kernel_version": "3.10",
+        "release_version": "*centos-7.[34].*",
+        "arch": "64",
+        "relative_path": "clerware_linux_drivers/centos-7.3-x64/disksbd_linux.ko"
+      },
+      {
+        "kernel_version": "3.10",
+        "release_version": "*redhat-7.[12].*redhat.com*",
+        "arch": "64",
+        "relative_path": "clerware_linux_drivers/RHEL-7.2-x64/disksbd_linux.ko"
+      },
+      {
+        "kernel_version": "3.10",
+        "release_version": "*redhat-7.[34].*redhat.com*",
+        "arch": "64",
+        "relative_path": "clerware_linux_drivers/centos-7.3-x64/disksbd_linux.ko"
+      }
+    ]
+  }
+}
