@@ -1,4 +1,4 @@
-requests==2.9.1
+requests==2.20.0
 zeroc-ice==3.6.1
 chardet==2.3.0
 IPy==0.83
